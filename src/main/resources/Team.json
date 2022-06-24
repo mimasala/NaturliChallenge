@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ruedi Noser",
+    "role": "Verwaltungsrat",
+    "description": "VR-Präsident"
+  },
+  {
+    "name": "Ernst Kocher",
+    "role": "Verwaltungsrat",
+    "description": " "
+  },
+  {
+    "name": "Kurt Bitterli",
+    "role": "Verwaltungsrat",
+    "description": ""
+  },
+  {
+    "name": "March Heller",
+    "role": "Geschäftsleiter",
+    "description": "Geschäftsleiter\nLeiter Marketing, Verkauf, Administration, Molkerei"
+  },
+  {
+    "name": "Hans Manser",
+    "role": "Geschäftsleiter",
+    "description": "Leiter Humidore, Käselinie, Produktion"
+  },
+  {
+    "name": "Gino Barille",
+    "role": "Geschäftsleiter",
+    "description": "Leiter IT, Prozesse, Facility Management"
+  },
+  {
+    "name": "Beni MAnser",
+    "role": "Humidor Regionenleiter",
+    "description": "Regionenleiter Nordwestschweiz"
+  },
+  {
+    "name": "Beat Köpfli",
+    "role": "Abteilungsleiter",
+    "description": "Stv. Leiter Produktion Käse"
+  }
+]

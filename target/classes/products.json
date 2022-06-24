@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Brie-Bleu",
+    "type": "cheese",
+    "origin": "England",
+    "weightInG": 125,
+    "size": "Portion"
+  },
+  {
+    "name": "Girenbaderli",
+    "type": "cheese",
+    "origin": "Natürli Zürioberland AG",
+    "weightInG": 125,
+    "size": "Portion"
+  },
+  {
+    "name": "Chili-Brie",
+    "origin": "Germany",
+    "weightInG": 150,
+    "size": "Portion"
+  },
+  {
+    "name": "Blue Dream",
+    "type": "cheese",
+    "origin": "Schafmilchkäserei Koster GmbH",
+    "weightInG": 110,
+    "size": "1/1 Laib"
+  },
+
+  {
+    "name": "Bio Sennebueb",
+    "type": "cheese",
+    "origin": "Käserei Stofel",
+    "weightInG": 140,
+    "size": "1/1 Laib"
+  },
+  {
+    "name": "Qualmerli",
+    "type": "cheese",
+    "origin": "Natürli Zürioberland AG",
+    "weightInG": 200 ,
+    "size": "1/1 Laib"
+  }
+]
